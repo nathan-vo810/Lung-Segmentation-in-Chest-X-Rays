@@ -1,4 +1,4 @@
-# Lung-Segmentation
+# Lung Segmentation in Chest X-ray images using Deep Neural Networks
 Thesis Project for Computer Science Department at Vietnamese - German University
 
 ## Abstract
